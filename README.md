@@ -1,1 +1,1 @@
-# VoiceRecognitionWhisper-ASR-Minds14-English
+# Voice Recognition using Whisper-ASR-Minds14 in English
